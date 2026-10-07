@@ -1,0 +1,6 @@
+{
+  "name": "FuzzPop - Pop. Match. Smile!",
+  "description": "An original, colorful fuzzy-ball shooting mobile puzzle game with 30 handcrafted levels, physics wall-bouncing, expressive fluffy characters, and satisfying combo drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
